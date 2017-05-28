@@ -1,0 +1,5 @@
+number_of_balls: 100
+board_size:
+  x: 800
+  y: 600
+ball_size: 50
